@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - hoplacloud.fail2ban
+    - draxalene.fail2ban
