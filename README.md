@@ -1,7 +1,8 @@
 Role Name
 =========
+draxalene.fail2ban
 
-Hopla.cloud role for ansible to install fail2ban.
+Draxalene role for ansible to install fail2ban.
 
 Requirements
 ------------
@@ -24,7 +25,7 @@ Example Playbook
     - hosts: localhost
       remote_user: root
       roles:
-         - hoplacloud.fail2ban
+         - draxalene.fail2ban
 
 License
 -------
@@ -34,4 +35,4 @@ GPLv3
 Author Information
 ------------------
 
-Joffrey Skandera for [hopla.cloud](https://hopla.cloud)
+Alexandre MOREAU by hopla.cloud
